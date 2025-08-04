@@ -34,8 +34,8 @@ Esse projeto foi feito como primeiro contato com Laravel, para aprender:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone (https://github.com/matos-julio/Primeiro-Projeto-Laravel
+cd Primeiro-Projeto-Laravel
 
 # Instale as dependências
 composer install
